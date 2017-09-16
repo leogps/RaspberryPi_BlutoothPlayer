@@ -1,4 +1,4 @@
-RaspberryPiBluetoothPlayer
+RaspberryPi_BluetoothPlayer
 ===================
 
 Description:
